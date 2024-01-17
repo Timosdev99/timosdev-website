@@ -6,7 +6,7 @@ const colors = require('../lib/colors.json')
 const links = [
     { label: "Home", href: "/" },
     { label: "Projects", href: "/gallery" },
-    { label: "Resume", href:"https://cloud-1zckfjmhq-hack-club-bot.vercel.app/0cs-std-resume.pdf"},
+    // { label: "Resume", href:"https://cloud-1zckfjmhq-hack-club-bot.vercel.app/0cs-std-resume.pdf"},
     { label: "Writing", href: "/writing"},
 ]
 
@@ -29,7 +29,6 @@ export default function Nav({active}) {
                 document.querySelector("#theme_toggle").classList.toggle("rotate-180");
             }
         });
-        console.log('Made by Claire Wang & Sarthak Mohanty. All Rights Reserved.')
     })
     return (
         <nav className="text-white">

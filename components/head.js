@@ -1,11 +1,11 @@
 import Head from 'next/head'
 
 export default function HeadObject({children}) {
-    const title = "Claire Wang";
-    const description = "Student. Researcher. Design.";
-    const keywords = "claire, wang, neuroscience, computer science, hack club, mit";
-    const author = "Claire Wang";
-    const twitter = "@clairebookworm1";
+    const title = "Aremu Malik";
+    const description = "Computer Scientist.";
+    const keywords = "Aremu Malik, mathematics, computer science, blockchain, e/acc";
+    const author = "Aremu Malik";
+    const twitter = "@MalikAremu1";
     //const image = "/ogimage.png"; // This is your OpenGraph image
     return (
         <Head>
@@ -15,10 +15,10 @@ export default function HeadObject({children}) {
             <title>{title}</title>
             <meta name="description" content={description} />
             <meta name="keywords" content={keywords} />
-            <meta name="author" content="Claire Wang" />
+            <meta name="author" content="Aremu Malik" />
             <meta property="og:url" content="bookworm.design" /> {/* This is where you put the domain */}
             <meta property="og:type" content="website" />
-            <meta property="og:title" content="Claire Wang's personal website"/>
+            <meta property="og:title" content="Aremu Malik's personal website"/>
             <meta property="og:description" content={description} />
             {/* <meta property="og:image" content={image} /> */}
             <meta name="twitter:card" content="summary" />

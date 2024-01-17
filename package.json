@@ -46,14 +46,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ClaireBookworm/claire-website.git"
+    "url": "git+https://github.com/malik672/malik-website.git"
   },
   "keywords": [
     "website"
   ],
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ClaireBookworm/claire-website/issues"
+    "url": "https://github.com/malik672/malik-website/issues"
   },
-  "homepage": "https://github.com/ClaireBookworm/claire-website#readme"
+  "homepage": "https://github.com/malik672/malik-website#readme"
 }

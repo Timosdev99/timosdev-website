@@ -11,7 +11,7 @@ export default function Layout({ headChildren, children, active }) {
       </main>
       <footer className="text-white mt-8 md:mt-16 pl-12 md:pl-20 mb-5 flex flex-col space-y-4 text-xs sm:text-sm">
         <div className="font-gilroy uppercase opacity-40">
-          Copyright {new Date().getFullYear()} Claire Wang.
+          Copyright {new Date().getFullYear()} Aremu Malik.
         </div>
       </footer>
     </div>

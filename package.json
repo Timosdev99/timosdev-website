@@ -1,7 +1,7 @@
 {
-  "name": "claire-website",
+  "name": "malik-website",
   "version": "0.1.0",
-  "author": "Claire Wang & Sarthak Mohanty",
+  "author": "Malik",
   "private": true,
   "scripts": {
     "dev": "next dev",

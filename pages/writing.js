@@ -26,7 +26,7 @@ export default function Home({ allPostsData }) {
   return (
     <Layout home>
       <div>
-        <h1 className="writingsTitle">cold brew blog</h1>
+        <h1 className="writingsTitle">AlgoVerse</h1>
         <p style={{"fontSize": '1.25rem', "fontWeight" : "800"}}>Find my substack at <a href="https://aremumalik05.substack.com/" style={{"textDecoration":"underline"}}>https://aremumalik05.substack.com/</a>.</p>
         <br />
         <ul>

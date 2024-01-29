@@ -1,3 +1,8 @@
+---
+title: Mastering Bit Optimization - Unleashing the Power of Efficient Code
+date: '29 JAN 2024'
+---
+
 # Mastering Bit Optimization: Unleashing the Power of Efficient Code
 
 ### mastering bit optimization
@@ -7,7 +12,6 @@
 
 29 JAN 2024
 
-Share
 
 Nowadays programmers just skip over bit optimizations when writing code and let’s be honest it’s not like they need it they have the compiler to do everything for them and optimize their code to be efficient but have you ever asked yourself , what if the compiler is not efficient enough, what if you find yourself in a situation where you have to write in assembly, probably you want to impress someone or you want to write the most optimized code the truth is if you are a infra dev or you write a system lang, a compiler dev or probably a system dev then you probably need to understand the way bit works and most importantly bit optimization.
 

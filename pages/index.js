@@ -5,10 +5,10 @@ export default function Home() {
   return (
     <div>
       <Head>
-        <meta property="twitter:url" content="https://malik.com/" />
+        <meta property="twitter:url" content="https://timosdev.com/" />
         <script
           defer
-          data-domain="malik.com"
+          data-domain="timosdev.com"
           src="https://plausible.io/js/plausible.js"
         ></script>
       </Head>
@@ -16,17 +16,18 @@ export default function Home() {
       <main className="mt-6 sm:mt-12 md:mt-16 flex flex-col text-white pl-12 md:pl-20">
         <section className="heading" aria-hidden="true">
           <div>
-            Aremu Malik<div className="inline opacity-50">.</div>
+            Timothy<div className="inline opacity-50">.</div>
           </div>
         </section>
         <section className="mt-8 md:mt-16 w-2/3 lg:w-1/2 md:text-xl">
-          Hey! I'm Malik, loves blockchain, star wars, fantasy novels and Brandon Sanderson; thanks for stopping by! I'm fascinated about computer science and mathematics (& hope to also branch into some creative writing).{" "}
+        I love coding, physics and math
+        As a backend developer, my world revolves around the intricate dance of data and logic that powers the digital experiences we interact with daily. But my passion for technology doesn't stop at writing efficient code or optimizing database queries. I'm on a quest to understand the very fabric of computation itself.{" "}
           <a
             style={{
               textDecoration: "underline",
               textDecorationStyle: "dotted",
             }}
-            href="https://github.com/malik672"
+            href="https://github.com/Timosdev99"
           >
             Check out my GitHub
           </a>. If you ever see me, I'll probably either be talking about{" "}
@@ -35,31 +36,23 @@ export default function Home() {
               textDecoration: "underline",
               textDecorationStyle: "dotted",
             }}
-            href="https://starwars.fandom.com/wiki/Main_Page"
+            href="/"
           >
-            Star wars or quoting Yoda
+           ML related topic or talking physics
           </a>
-          , <span style={{ fontStyle: "italic", fontSize: "17px", textDecoration: "underline" }}>Do, or do not. There is no try - Yoda.</span>{" "}
+          , <span style={{ fontStyle: "italic", fontSize: "17px", textDecoration: "underline" }}>"Great spirits have always encountered violent opposition from mediocre minds"-Einstein.</span>{" "}
+         
+          
           <a
             style={{
               textDecoration: "underline",
               textDecorationStyle: "dotted",
             }}
-            href="https://open.spotify.com/playlist/3zctAx5qGonJV8S3AR29jy"
+            href=''
           >
-            Music fan?, then you've to recognize Kendrick and The Weeknd supremacy.
+            
           </a>
-          {" "}Sometimes (most times tbh) I rant about{" "}
-          <a
-            style={{
-              textDecoration: "underline",
-              textDecorationStyle: "dotted",
-            }}
-            href="https://bookshelf.website/malik"
-          >
-            books
-          </a>
-          , obsess over CS, maths{" "}
+           obsess over CS, physics{" "}
           <a
             style={{
               textDecoration: "underline",
@@ -67,7 +60,7 @@ export default function Home() {
             }}
             //href="desimonelab.org/"
           >
-            and blockchains.
+            and ML.
           </a>{" "}
           <a
             style={{
@@ -76,17 +69,17 @@ export default function Home() {
             }}
             //href="https://jasanofflab.mit.edu/"
           >
-            I hope to publish a research paper this year, learn more about zk, cryptography, form new connections, partake in more hackathons. Don't know how yet, but surely doing it.
+            I hope to publish a research paper this year, learn more about ML and quantum computing, CUDA, form new connections, partake in more hackathons. Don't know how yet, but surely doing it.
           </a>
-          , or just build more infra tools. I truly believe in e/acc, we've to progress at an exponential rate, that's the only way to save humanity!
+          , or just build more cool stuff and keep learning.
           <br />
           <br />
           <span style={{ fontSize: "0.9rem", lineHeight: "0.7rem" }}>
-            <span style={{ fontWeight: "bold" }}>Currently reading</span>:{" "}
+            <span style={{ fontWeight: "bold" }}>Currently grinding</span>:{" "}
             <span style={{ fontStyle: "italic" }}>
-              Linear Algebra done right
+              Low level programming 
             </span>{" "}
-            by Sheldon Alexar.
+            and sure move into CUDA.
           </span>
           <br />
           <br />
@@ -107,7 +100,7 @@ export default function Home() {
                 textDecoration: "underline",
                 textDecorationStyle: "dotted",
               }}
-              href="https://twitter.com/MalikAremu1"
+              href="https://x.com/Timothy9199"
             >
               Twitter
             </a>{" "}
@@ -117,7 +110,7 @@ export default function Home() {
                 textDecoration: "underline",
                 textDecorationStyle: "dotted",
               }}
-              href="https://github.com/malik672"
+              href="https://github.com/Timosdev99"
             >
               GitHub
             </a>
@@ -126,7 +119,7 @@ export default function Home() {
         </section>
         <section className="mt-8 md:mt-8 w-2/3 lg:w-1/2 md:text-xl">
           <div className="icon-bar">
-            <a href="https://twitter.com/MalikAremu1">
+            <a href="https://x.com/Timothy9199">
               <svg
                 fill="white"
                 height="20px"
@@ -138,7 +131,7 @@ export default function Home() {
                 <path d="M23.953 4.57a10 10 0 01-2.825.775 4.958 4.958 0 002.163-2.723c-.951.555-2.005.959-3.127 1.184a4.92 4.92 0 00-8.384 4.482C7.69 8.095 4.067 6.13 1.64 3.162a4.822 4.822 0 00-.666 2.475c0 1.71.87 3.213 2.188 4.096a4.904 4.904 0 01-2.228-.616v.06a4.923 4.923 0 003.946 4.827 4.996 4.996 0 01-2.212.085 4.936 4.936 0 004.604 3.417 9.867 9.867 0 01-6.102 2.105c-.39 0-.779-.023-1.17-.067a13.995 13.995 0 007.557 2.209c9.053 0 13.998-7.496 13.998-13.985 0-.21 0-.42-.015-.63A9.935 9.935 0 0024 4.59z" />
               </svg>
             </a>
-            <a href="https://github.com/malik672">
+            <a href="https://github.com/Timosdev99">
               <svg
                 fill="white"
                 height="20px"
@@ -159,10 +152,9 @@ export default function Home() {
       </main>
       <footer className="text-white mt-8 md:mt-16 pl-12 md:pl-20 mb-5 flex flex-col space-y-4 text-xs sm:text-sm">
         <div id="footnotes" className="font-inter">
-          ¹DFTBA: Don’t forget to be awesome!
+          ¹DFTBA: Don’t forget to keep grinding. there's no space for mediocre minds anymore!
           <br />
-          ²I'm always happy to chat! You can find me by emailing me at
-          aremumalik05 (at) gmail.com or any way you can find (linked above or
+          ²I'm always happy to chat! You can find me by  (linked above or
           otherwise).
         </div>
         <div className="font-gilroy uppercase opacity-40">

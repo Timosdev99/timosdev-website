@@ -1,2 +1,2 @@
-# @malik's Personal Website
+# @Timosdev's Personal Website
 

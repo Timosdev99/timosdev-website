@@ -1,7 +1,7 @@
 {
-  "name": "malik-website",
+  "name": "timosdev-website",
   "version": "0.1.0",
-  "author": "Malik",
+  "author": "Timothy",
   "private": true,
   "scripts": {
     "dev": "next dev",

@@ -158,7 +158,7 @@ export default function Home() {
           otherwise).
         </div>
         <div className="font-gilroy uppercase opacity-40">
-          Copyright {new Date().getFullYear()} Aremu Malik.
+          Copyright {new Date().getFullYear()} Timothy.
         </div>
       </footer>
     </div>

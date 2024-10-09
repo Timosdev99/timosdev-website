@@ -27,7 +27,7 @@ export default function Home({ allPostsData }) {
     <Layout home>
       <div>
         <h1 className="writingsTitle">Timosdev-blog</h1>
-        <p style={{"fontSize": '1.25rem', "fontWeight" : "800"}}>you can check out my blog where i share my learning progress and knowlegde<a href="https://timosdev-blog.vercel.app/" style={{"textDecoration":"underline"}}>https://timosdev-blog.vercel.app/ </a>.</p>
+        <p style={{"fontSize": '1.25rem', "fontWeight" : "800"}}>you can check out my blog where i share my learning progress and knowlegde <a href="https://timosdev-blog.vercel.app/" style={{"textDecoration":"underline"}}>  https://timosdev-blog.vercel.app/ </a>.</p>
         <br />
         <ul>
           {allPostsData.map(({ id, date, title }, index) => (
